@@ -1,0 +1,10 @@
+body {
+    font-size: 16px;
+    font-family: "Helvetica", "Arial", sans-serif;
+    color: black;
+}
+
+.content {
+    max-width: 1024px;
+    margin: 0 auto;
+}
